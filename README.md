@@ -1,4 +1,3 @@
-# Luminar4-Update-4.4
 # **Luminar4 Full Versions**
 -------------
 ![alt-текст](https://images-na.ssl-images-amazon.com/images/I/8163qVOTUPL._AC_SY445_.jpg "Luminar4")
