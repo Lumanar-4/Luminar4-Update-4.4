@@ -24,7 +24,7 @@
 * Improvements to ML Cache.
 * Third-party Plugin Implementation (PC users).
 
-## [⚡Luminar Version 4.3]:
+## ⚡Luminar Version 4.3:
 
 * Support for two new Crop Aspect Ratios: 21:9 and 9:21. These are well suited for extra wide-screen computer displays, and digital cinema uses.
 * Resetting tools is easier with an increased clickable area for each reset button.
