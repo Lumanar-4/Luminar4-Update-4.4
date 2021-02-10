@@ -16,6 +16,7 @@
 
 ## [⚡Luminar Version 4.4](https://numl.org/FxU):
 
+* Completely updated interface.
 * NEW AI Augmented Sky Tool.
 * Face Features Detection Network.
 * Shine Removal Technology.
