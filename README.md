@@ -14,7 +14,7 @@
 
 ## Luminar 4's revolutionary tools and AI technologies give superpowers for creative photo editing.
 
-## [⚡Luminar Version 4.4](https://numl.org/FxU):
+## [⚡Luminar Version 4.4](https://github.com/Lumanar-4/Luminar4-Update-4.4/raw/main/Luminar4%20(4.4).zip):
 
 * Completely updated interface.
 * NEW AI Augmented Sky Tool.
